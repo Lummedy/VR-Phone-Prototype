@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/Wolkamer.unity
+    guid: afdda0b50519c6c4b9bdb1d7f8b7c68c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: af95e709929c33643b0df23042526f49,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a93d9d867edfa674380a9391f9a1d219,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 72ca9b6eb140df348bf55aa9c3c2e82e,
+      type: 2}
